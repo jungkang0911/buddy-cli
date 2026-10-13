@@ -14,23 +14,9 @@ Zero dependencies — pure Python 3.
 
 ## Preview
 
-```
- Jiao Jiao ♥♥♥♥♡  ●●●●○ is so happy
-    *   ·    ·     ·                  *    *         ( )*             .
-                    ·            ·.              *   (_)    *.    · ·
-                              (~~~)
-     (~~~)
-     (8)
-      |
-                                          ♥ ♥♥
-       ^            ^           ^       ╭────────────╮
-      /^\          /^\         /^\      │ more pats! │
-     / \          / \         / \       ╰───v────────╯
-       |            |           |         |\  /|
-  v,v  |vv          |           |v,vvv  v,(^''^),;,       v,v ,;,
-____..__.._._.______..____.__.________._..\_ww_/~...____._.___.___...__
-    p pet · f feed · b ball · t trick · c call · s sit · ␣ hi · q quit
-```
+![Jiao Jiao demo: petting, belly rubs, treats, fetch, tricks](docs/demo.gif)
+
+▶ **[Interactive demo](https://jungkang0911.github.io/buddy-cli/)**: pause, scrub, and jump to each interaction.
 
 ### Her many faces
 
