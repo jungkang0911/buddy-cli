@@ -9,7 +9,36 @@ Zero dependencies — pure Python 3.
 ```
 |\  /|
 (o''o)   ← Jiao Jiao
-\_ww_/->
+\_ww_/>
+```
+
+## Preview
+
+```
+ Jiao Jiao ♥♥♥♥♡  ●●●●○ is so happy
+    *   ·    ·     ·                  *    *         ( )*             .
+                    ·            ·.              *   (_)    *.    · ·
+                              (~~~)
+     (~~~)
+     (8)
+      |
+                                          ♥ ♥♥
+       ^            ^           ^       ╭────────────╮
+      /^\          /^\         /^\      │ more pats! │
+     / \          / \         / \       ╰───v────────╯
+       |            |           |         |\  /|
+  v,v  |vv          |           |v,vvv  v,(^''^),;,       v,v ,;,
+____..__.._._.______..____.__.________._..\_ww_/~...____._.___.___...__
+    p pet · f feed · b ball · t trick · c call · s sit · ␣ hi · q quit
+```
+
+### Her many faces
+
+```
+ |\  /|     |\  /|     |\  /|     /'ww'\     |\  /|      _|\  /|
+ (o''o)     (♥''♥)     (^ww^)     (^''^)     (^''^)/    (_(-..-)  zZ
+ \_ww_/~    \_ww_/~   ~\_ww_/     |/  \|     /_ww_\
+ curious    petted     munching   belly up   waving      napping
 ```
 
 ## Features
@@ -28,10 +57,13 @@ Zero dependencies — pure Python 3.
 
 - Python 3.6+
 - Windows Terminal or any ANSI-capable terminal
+- Mouse clicks are optional. They work in terminals with xterm mouse support (most Linux and macOS terminals; Windows Terminal support is experimental). The keyboard always works
 
 ## Usage
 
 ```bash
+git clone https://github.com/jungkang0911/buddy-cli.git
+cd buddy-cli
 python buddy.py
 ```
 
@@ -66,6 +98,23 @@ run Jiao Jiao there, and keep your main pane for work.
 | Hungry or lonely | Asks for a treat or a pat |
 | Very happy | Hops around humming `♪` |
 | Just walking | May randomly spin around (`Where am I?`) |
+
+## 中文說明
+
+嬌嬌是一隻住在終端機裡的雪納瑞，紀念那隻超級路痴、到處亂跑了 15 年，卻總能自己找到路回家的嬌嬌。
+
+執行 `python buddy.py` 之後可以這樣跟她玩：
+
+- `p` 摸摸她，連摸三下她會翻肚討摸
+- `f` 餵零食
+- `b` 丟球，她會撿回來
+- `t` 表演才藝
+- `c` 叫她過來，她可能會先走錯路
+- `s` 坐下
+- 空白鍵 打招呼
+- 用滑鼠點她也是摸摸，點其他地方她會跑過去
+
+左上角的 ♥ 是心情，● 是飽足度，放著不管會慢慢下降。她也會自己追蝴蝶、對小鳥叫、挖洞、睡午覺，深夜還會叫你早點睡。
 
 ## License
 
